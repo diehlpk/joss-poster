@@ -1,6 +1,6 @@
 # JOSS poster
 
-Source files for a JOSS poster.
+Source files for a [JOSS](https://joss.theoj.org/) poster. The source files of a JOSS talk can be found [here](https://github.com/diehlpk/joss-talk). 
 
 Made using the [`tikzposter`](https://ctan.org/pkg/tikzposter) LaTeX
 class.

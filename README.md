@@ -1,4 +1,4 @@
-# JOSS poster [Build Status](https://github.com/diehlpk/joss-poster/workflows/make%poster.pdf/badge.svg)
+# JOSS poster [Build Status](https://github.com/diehlpk/joss-poster/workflows/make%20poster/badge.svg)
 
 Source files for a [JOSS](https://joss.theoj.org/) poster. The source files of a JOSS talk can be found [here](https://github.com/diehlpk/joss-talk). 
 
